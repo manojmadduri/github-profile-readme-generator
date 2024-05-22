@@ -1,5 +1,26 @@
 ## You can use app here [Readme Generator](https://github-profile-readme-generator-eosin.vercel.app/).
 
+
+Project: GitHub Profile README Generator
+
+Description:
+A web tool that helps users generate a personalized GitHub profile README with features like visitor count, GitHub stats, social icons, and more. Users can fill in their details and get a markdown file ready to be used in their GitHub profile.
+Features:
+
+  - Fill in details like Name, Tagline, GitHub Username, Current Work, Portfolio, Blog URL, etc.
+  - Uniform Dev and Social Icons
+  - Visitors Counter Badge
+  - GitHub Profile Stats Card
+  - GitHub Top Skills
+  - GitHub Streak Stats
+  - Dynamic Blogs from Dev.to, Medium, and RSS Feed
+  - Buy Me A Coffee button
+
+Tech Stack:
+
+- Frontend: React.js, Tailwind CSS
+- Deployment: Vercel or Netlify for easy deployment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
